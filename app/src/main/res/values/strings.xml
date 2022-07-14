@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AgeCalculator</string>
+    <string name="age_calculator">Age Calculator</string>
+    <string name="TODO" />
+    <string name="age_calculator1">Age Calculator</string>
+    <string name="todo">TODO</string>
 </resources>
